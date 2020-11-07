@@ -3,9 +3,9 @@
 ## Feladat Leírás
 
 Telepítsd a react native-ot és készítsd el a következő feladatot. A feladat egy olyan képernyő létrehozása, amelyen 4 komponens található az alábbi sorrendben.
-	- Kép
-	- Szöveg
-	- Szöveg beviteli mező és mellette egy gomb
+- Kép
+- Szöveg
+- Szöveg beviteli mező és mellette egy gomb
 
 A kép a Medio logó legyen közvetlen eléréssel, ne távolival.
 
