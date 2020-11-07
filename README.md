@@ -19,7 +19,7 @@ A gombra kattintva a szöveg legyen:
 
 Üdv [Szöveg beviteli mező értéke]!
 
-## Fejlesztöi környezet
+## Fejlesztői környezet
 
 Expo CLI
 
@@ -30,5 +30,5 @@ Expo CLI
 
 ## Tesztek
 
-iOS: iPhone 7 (fizikalis eszköz)
-Android: Google Pixel 3A (Android Studio)
+- iOS: iPhone 7 (fizikalis eszköz)
+- Android: Google Pixel 3A (Android Studio)
