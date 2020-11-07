@@ -1,4 +1,4 @@
-# React Native tesztfeladat 1
+# React Native Tesztfeladat 1
 
 ## Feladat Leírás
 
@@ -19,7 +19,7 @@ A gombra kattintva a szöveg legyen:
 
 Üdv [Szöveg beviteli mező értéke]!
 
-## Fejlesztöi környezet
+## Fejlesztöi Környezet
 
 Expo CLI
 
@@ -30,5 +30,5 @@ Expo CLI
 
 ## Tesztek
 
-iOS: iPhone 7 (fizikalis eszköz)
+iOS: iPhone 7 (fizikális eszköz)
 Android: Google Pixel 3A (Android Studio)
