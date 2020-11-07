@@ -5,8 +5,10 @@ const NameInput = (props) => {
   const [name, setName] = useState('');
 
   const onSendName = () => {
-    props.onButtonPress(name);
-    setName('');
+    if (name.trim()) {
+      props.onButtonPress(name.trim());
+      setName('');
+    } 
   }
 
   return ( 

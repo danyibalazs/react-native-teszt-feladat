@@ -8,10 +8,8 @@ import NameInput from './components/NameInput';
 export default function App() {
   const [showedName, setShowedName] = useState('');
 
-  const onButtonPress = (name) => {
-    if (name) {
-      setShowedName(name.trim());
-    }  
+  const onButtonPress = (name) => { 
+    setShowedName(name);  
   }
 
   return (
